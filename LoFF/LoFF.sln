@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoFF", "LoFF\LoFF.csproj", "{F15612C7-1536-41EB-9C36-88543097FE3E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{13866F24-80DC-421C-9E55-AFD21D596BAD}"
+	ProjectSection(SolutionItems) = preProject
+		Scripts\am.nswag = Scripts\am.nswag
+		Scripts\FlightLowFareSearch_Swagger_specification.json = Scripts\FlightLowFareSearch_Swagger_specification.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F15612C7-1536-41EB-9C36-88543097FE3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15612C7-1536-41EB-9C36-88543097FE3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15612C7-1536-41EB-9C36-88543097FE3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15612C7-1536-41EB-9C36-88543097FE3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D805B3B-84F3-4910-86E6-B6DFCB12C007}
+	EndGlobalSection
+EndGlobal
